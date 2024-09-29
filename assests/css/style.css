@@ -43,7 +43,7 @@ header{
 /* Homepage */
 
 body{
-    font: ;
+    min-height: 100vh;
 }
 
 .main-section{
@@ -53,8 +53,45 @@ body{
     padding: 10px 10px;
 }
 
-.principles img{
-   
+.main-images{
+   display: block;
+    max-width: 320px;
+    height: auto;
+    align-content: center;
+}
+
+.media-1{
+    background: url("../images/6\ principles.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    -moz- transition: all 5s ease-in-out;
+    -webkit- transition: all .5s ease-in-out;
+}
+
+.media-2{
+    background: url("../images/adult\ safeguarding.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    -moz- transition: all 5s ease-in-out;
+    -webkit- transition: all .5s ease-in-out;
+}
+
+.media-3{
+    background: url("../images/pexels-cottonbro-7086103.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    -moz- transition: all 5s ease-in-out;
+    -webkit- transition: all .5s ease-in-out;
+}
+
+hr{
+    border: 1px solid;
 }
 
 /* sign-steps */
