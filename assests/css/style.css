@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/* Colours */
+
+
+.bg-socials{
+    background-color: #d5ceb4
+}
+
+.bg-nav{
+    background-color: #d5ceb4
+}
+/* Header */
+
+header{
+  
+   
+   
+}
+
+.navbar li a{
+    display: inline-block;
+    color: #30292F;
+   
+
+}
+
+.navbar-brand{
+    color: #30292F;
+    font-size: 60px;
+  
+}
+
+.nav-items{
+    display: inline-block;
+    align-content: center;
+    padding-top: 5px;
+    padding-left: 40px;
+    color: #30292F;
+}
+
+
+/* Homepage */
+
+body{
+    font: ;
+}
+
+.main-section{
+    background-color: #bab8ad;
+}
+.key-principles{
+    padding: 10px 10px;
+}
+
+.principles img{
+   
+}
+
+/* sign-steps */
+
+/* Resources */
+
+/* Footer */
+
+footer{
+    position: fixed;
+  
+    bottom: 0;
+    height: 40px;
+ 
+ }
+
+
+.list-inline{
+    text-align: center;
+    font-size: larger;
+}
+.list-inline-items{
+    display: inline-block;
+    padding: 5px 20px;
+    color: #30292F;
+}
+
+.list-inline-items a i{
+    color: #30292F;
+}
