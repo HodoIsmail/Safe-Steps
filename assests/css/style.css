@@ -1,33 +1,31 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=titillium+web:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /* Colours */
 
 
 .bg-socials{
-    background-color: #d5ceb4
+    background-color:#efeee7;
 }
 
 .bg-nav{
-    background-color: #d5ceb4
+    background-color: #efeee7;
 }
 /* Header */
 
-header{
-  
-   
-   
-}
 
 .navbar li a{
     display: inline-block;
     color: #30292F;
+    font-size: 25px;
    
 
 }
 
 .navbar-brand{
     color: #30292F;
-    font-size: 60px;
+    font-size: 70px;
+    font-family: 'titillium web', sans-serif;
+    font-weight: 700;
   
 }
 
@@ -46,12 +44,31 @@ body{
     min-height: 100vh;
 }
 
-.main-section{
-    background-color: #bab8ad;
+
+
+.jumbotron {
+    
+background-image: url(../images/deniz-altindas-t1XLQvDqt_4-unsplash.jpg);
+background-color: #40678e;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 360px;
+-moz- transition: all 5s ease-in-out;
+-webkit- transition: all .5s ease-in-out;
+
 }
+
+
 .key-principles, .adult-sg, .child-sg{
     padding: 30px 10px;
     margin-top: 30px;
+}
+
+.child-sg h3, .adult-sg h3{
+    text-align: center;
+    padding-bottom: 20px;
+
 }
 
 .main-images{
