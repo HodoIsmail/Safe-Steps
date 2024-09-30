@@ -8,7 +8,7 @@
 }
 
 .bg-nav{
-    background-color: #edf0f4;
+    background-color: #b5b3b9
 }
 
 .bg-child-sg, .bg-adult-sg{
@@ -21,14 +21,14 @@ body{
 
 .navbar li a{
     display: inline-block;
-    color: #30292F;
+    color: whitesmoke;
     font-size: 25px;
    
 
 }
 
 .navbar-brand{
-    color: #30292F;
+    color: whitesmoke;
     font-size: 70px;
     font-family: 'titillium web', sans-serif;
     font-weight: 700;
@@ -133,7 +133,29 @@ hr{
 .sign-header h2{
     font-size: 50px;
     text-align: center;
+    font-weight: 400;
+    color: whitesmoke;
 }
+
+.help-section{
+    background-color: #b5b3b9;
+    padding-top: 5px;
+}
+
+.help-section p, .help-section h4 {
+    text-align: center;
+}
+
+.image-help {
+    background-image: url("../images/thomas-de-luze-Np3UXu5yDc0-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    -moz- transition: all 5s ease-in-out;
+    -webkit- transition: all .5s ease-in-out;
+}
+
 
 /* Resources */
 
