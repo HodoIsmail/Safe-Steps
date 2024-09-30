@@ -4,14 +4,20 @@
 
 
 .bg-socials{
-    background-color:#efeee7;
+    background-color: #edf0f4;
 }
 
 .bg-nav{
-    background-color: #efeee7;
+    background-color: #edf0f4;
+}
+
+.bg-child-sg, .bg-adult-sg{
+    border-radius: 50%;
 }
 /* Header */
-
+body{
+    font-family: "Exo", sans-serif;
+}
 
 .navbar li a{
     display: inline-block;
@@ -71,12 +77,9 @@ min-height: 360px;
 
 }
 
-.main-images{
-   display: block;
-    max-width: 320px;
-    height: auto;
-    align-content: center;
-}
+
+
+
 
 .media-1{
     background: url("../images/6\ principles.png");
@@ -86,6 +89,7 @@ min-height: 360px;
     min-height: 360px;
     -moz- transition: all 5s ease-in-out;
     -webkit- transition: all .5s ease-in-out;
+    
 }
 
 .media-2{
@@ -119,6 +123,17 @@ hr{
 }
 
 /* sign-steps */
+
+.sign-header{
+    background-color: #40678e;
+   
+    padding: 50px;
+}
+
+.sign-header h2{
+    font-size: 50px;
+    text-align: center;
+}
 
 /* Resources */
 
