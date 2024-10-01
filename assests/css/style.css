@@ -72,14 +72,16 @@ min-height: 360px;
 
 .key-principles, .adult-sg, .child-sg{
     padding: 30px 10px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .child-sg h3, .adult-sg h3{
-    text-align: center;
+    
     padding-bottom: 20px;
+    
 
 }
+
 
 
 .media-1{
@@ -87,8 +89,8 @@ min-height: 360px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
-   
+    min-height: 340px;
+    min-width: auto;
     
 }
 
@@ -117,7 +119,8 @@ hr{
 }
 
 .sg-text p{
-    text-align: center;
+    text-align: left;
+    margin-top: 30px;
 }
 
 /* sign-steps */
@@ -166,11 +169,13 @@ hr{
 
 .btn-clr{
     background-color: #40678e;
-   color: whitesmoke;
+    align-items: center;
+
 }
 
-.btn{
-    color: whitesmoke;
+
+.btn-clr a{
+    color: white;
 }
 
 .resource-heading{
