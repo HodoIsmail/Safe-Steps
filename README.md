@@ -30,17 +30,30 @@ The target audience for a safeguarding website includes parents and carers seeki
 
 ## Features
 
-Navigation bar
+<h4>Navigation bar</h4>
+
+The navigation bar, featured on all three pages, is fully responsive and includes links to Home, Signs and Steps, and Resources pages. Its consistent design across each page facilitates easy navigation. On mobile devices, the navigation bar transforms into a toggler, optimizing space and ensuring a user-friendly experience while maintaining access to essential links.
 
 
-Landing page
+<h4>Landing page</h4>
 
-Signs and steps page
+The landing page features a simple jumbotron alongside a concise statement of purpose. Additionally, it provides a brief overview of safeguarding and outlines the distinctions between child safeguarding and adult safeguarding.
 
-Resources page
+<h4>Signs and steps page</h4>
 
-Footer
+The Signs and Steps page provides an in-depth overview of the signs of abuse and neglect, helping individuals recognize potential red flags. It outlines common indicators for various forms of abuse, ensuring that users are informed and vigilant.
 
+Additionally, the page details the appropriate steps to take if there are any concerns about abuse or neglect. This guidance includes how to report suspicions, whom to contact, and the necessary actions to ensure the safety and well-being of those involved.
+
+<h4>Resources page</h4>
+
+The resources page features a collection of card links that direct users to relevant training courses designed to enhance their knowledge and skills in safeguarding. Each card provides a brief description of the course, including its objectives and target audience.
+
+The page also includes a comprehensive list of reputable websites and helplines that offer further information and support. These resources aim to assist individuals seeking guidance or help related to safeguarding issues, ensuring they have access to the necessary tools and support networks. 
+
+<h4>Footer</h4>
+
+The footer features links to our social media platforms, encouraging users to stay connected with our site. It maintains a consistent design across all pages and is fully responsive on all devices.
 
 
 ------
@@ -83,9 +96,14 @@ https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
 https://fonts.google.com/
 
+https://chatgpt.com
+
 Media:
 
 https://unsplash.com/
+
+https://kleki.com/
+
 https://favicon.io/favicon-generator/
 
 ---
