@@ -14,6 +14,12 @@
 .bg-child-sg, .bg-adult-sg{
     border-radius: 50%;
 }
+
+.container-bg{
+    background-color: #f2f1f5;
+    padding: 5px 5px;
+    
+}
 /* Header #b5b3b9; #ABA8B2; */
 body{
     font-family: "Titillium Web", sans-serif;
@@ -61,7 +67,10 @@ background-repeat: no-repeat;
 background-size: cover;
 min-height: 360px;
 
+}
 
+.main-section{
+    margin-bottom: 10px !important;
 }
 
 .main-header h1, .main-header h5{
@@ -72,14 +81,13 @@ min-height: 360px;
 
 .key-principles, .adult-sg, .child-sg{
     padding: 30px 10px;
-    margin-top: 20px;
+   
 }
 
-.child-sg h3, .adult-sg h3{
+.key-principles h1, .child-sg h2, .adult-sg h2{
     
     padding-bottom: 20px;
-    
-
+    text-align: center;
 }
 
 
@@ -89,10 +97,12 @@ min-height: 360px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 340px;
-    min-width: auto;
+    min-height: 300px;
+
     
 }
+
+
 
 .media-2{
     background: url("../images/adult\ safeguarding.png");
@@ -185,34 +195,50 @@ font-size: 50px;
 padding-top: 10px;
 }
 
+.fa-link{
+    color:#40678e;
+}
+
 /* Footer */
-
-footer{
-    position: fixed;
-    bottom: 0;
-    height: 40px;
- 
- }
-
-
+.footer{
+    max-height: 50px !important;
+}
 .list-inline{
-    text-align: center;
+    text-align: left;
     font-size: larger;
 }
-.list-inline-items{
+.list-inline-items {
     display: inline-block;
     padding: 5px 20px;
     color: #30292F;
+    font-size: 25px;
 }
 
+.copy{
+    color: #30292F;
+    font-size: 20px;
+    padding: 5px 20px;
+    vertical-align: middle;
+}
 .list-inline-items a i{
     color: #30292F;
 }
-
 /* media query */
+
+@media (max-width: 1440px) {
+    .media-1{
+        background-size: 530px;
+    }
+    }
 
 @media (max-width: 375px){
 .navbar-brand i{
     display: none;
 }
-}    
+
+}
+@media (max-width: 425px){
+    .media-1{
+        background-size: cover;
+    }
+}
