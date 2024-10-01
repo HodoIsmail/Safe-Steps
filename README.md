@@ -27,6 +27,7 @@ The target audience for a safeguarding website includes parents and carers seeki
 
 Navigation bar
 
+
 Landing page
 
 Signs and steps page
@@ -39,21 +40,47 @@ Footer
 
 ------
 
-## Release History
-
-
-
 ------
 
 ## Testing
+HTML Validation
 
+![Screenshot 2024-10-01 at 15 02 33](https://github.com/user-attachments/assets/9b3c8ac7-e308-4f0b-94d7-5e40f94a4ab6)
+
+
+CSS Validation
+
+![Screenshot 2024-10-01 at 14 54 47](https://github.com/user-attachments/assets/9054e47f-35a9-4ab7-9d78-99e55573b9bd)
 
 ## Deployment
 
+The site was deployed on GitHub pages and can be found here: https://hodoismail.github.io/Safe-Steps/
+
 ## Citation
 
+Content:
 
+https://www.ideagen.com/thought-leadership/blog/the-6-principles-of-safeguarding-explained
 
+https://learning.nspcc.org.uk/training/child-protection-schools
+
+https://www.ncvo.org.uk/help-and-guidance/safeguarding/getting-started-with-safeguarding/what-is-safeguarding/
+
+https://fontawesome.com/
+
+https://safeguarding.network/
+
+https://somersetsafeguardingadults.org.uk/information-for-the-public/what-is-safeguarding/#:~:text=It%20means%20protecting%20an%20adult's,with%20care%20and%20support%20needs
+
+https://www.gov.uk/government/publications/safeguarding-policy-protecting-vulnerable-adults
+
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+https://fonts.google.com/
+
+Media:
+
+https://unsplash.com/
 
 ---
 
