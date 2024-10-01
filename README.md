@@ -86,6 +86,7 @@ https://fonts.google.com/
 Media:
 
 https://unsplash.com/
+https://favicon.io/favicon-generator/
 
 ---
 
