@@ -23,6 +23,11 @@ The target audience for a safeguarding website includes parents and carers seeki
 
 •	As a new user of the website, I want the site to be easy and simple to read.
 
+## Wireframe
+
+![Screenshot 2024-10-01 at 16 04 25](https://github.com/user-attachments/assets/b99b9407-0a64-4d61-9360-5f32f89439eb)
+
+
 ## Features
 
 Navigation bar
