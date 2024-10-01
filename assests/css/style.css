@@ -16,7 +16,7 @@
 }
 /* Header #b5b3b9; #ABA8B2; */
 body{
-    font-family: "Exo", sans-serif;
+    font-family: "Titillium Web", sans-serif;
 }
 
 .navbar li a{
@@ -29,11 +29,10 @@ body{
 
 .navbar-brand{
     color:#40678e;
-     !important;
     font-family: 'Exo', sans-serif;
 }
 .navbar-brand h3{
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .nav-items{
@@ -61,14 +60,13 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 360px;
--moz- transition: all 5s ease-in-out;
--webkit- transition: all .5s ease-in-out;
+
 
 }
 
 .main-header h1, .main-header h5{
     color: whitesmoke;
-    text-align: left center;
+    text-align: left;
     padding: 15px;
 }
 
@@ -84,17 +82,13 @@ min-height: 360px;
 }
 
 
-
-
-
 .media-1{
     background: url("../images/6\ principles.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    -moz- transition: all 5s ease-in-out;
-    -webkit- transition: all .5s ease-in-out;
+   
     
 }
 
@@ -104,8 +98,7 @@ min-height: 360px;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    -moz- transition: all 5s ease-in-out;
-    -webkit- transition: all .5s ease-in-out;
+   
 }
 
 .media-3{
@@ -114,8 +107,7 @@ min-height: 360px;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    -moz- transition: all 5s ease-in-out;
-    -webkit- transition: all .5s ease-in-out;
+ 
 }
 
 hr{
@@ -158,8 +150,7 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    -moz- transition: all 5s ease-in-out;
-    -webkit- transition: all .5s ease-in-out;
+   
 }
 
 .image-help-2{
@@ -168,8 +159,7 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
-    -moz- transition: all 5s ease-in-out;
-    -webkit- transition: all .5s ease-in-out;
+   
 }
 
 /* Resources */
@@ -194,7 +184,6 @@ padding-top: 10px;
 
 footer{
     position: fixed;
-  
     bottom: 0;
     height: 40px;
  
@@ -214,3 +203,11 @@ footer{
 .list-inline-items a i{
     color: #30292F;
 }
+
+/* media query */
+
+@media (max-width: 375px){
+.navbar-brand i{
+    display: none;
+}
+}    
