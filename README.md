@@ -96,6 +96,8 @@ https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
 https://fonts.google.com/
 
+https://chatgpt.com
+
 Media:
 
 https://unsplash.com/
