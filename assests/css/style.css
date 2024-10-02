@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=titillium+web:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /* Colours */
 
@@ -20,7 +20,7 @@
     padding: 5px 5px;
     
 }
-/* Header #b5b3b9; #ABA8B2; */
+/* Header */
 body{
     font-family: "Titillium Web", sans-serif;
 }
@@ -52,41 +52,39 @@ body{
 
 /* Homepage */
 
-body{
-    min-height: 100vh;
-}
-
-
 
 .jumbotron {
     
-background-image: url(../images/2024_09_30_0xt_Kleki.png);
+background-image: url(../images/filipp-romanovski-CmUHUYpJYqM-unsplash-overlay\ \(2\).jpg);
 background-color: #40678e;
 background-position: center;
 background-repeat: no-repeat;
-background-size: cover;
+background-size:cover;
 min-height: 360px;
 
+
 }
+
 
 .main-section{
     margin-bottom: 10px !important;
 }
 
 .main-header h1, .main-header h5{
-    color: whitesmoke;
+    color:#e9ecef;
     text-align: left;
-    padding: 15px;
+    padding: 10px;
+    z-index: 3;
 }
 
 .key-principles, .adult-sg, .child-sg{
-    padding: 30px 10px;
+    padding: 15px 10px;
    
 }
 
 .key-principles h1, .child-sg h2, .adult-sg h2{
     
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
@@ -130,7 +128,7 @@ hr{
 
 .sg-text p{
     text-align: left;
-    margin-top: 30px;
+    margin: 0% !important;
 }
 
 /* sign-steps */
